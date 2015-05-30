@@ -14,4 +14,4 @@ This requires 4.7.6 or later, and requires your engine to be built from source c
 
 # Usage
 
-See YouTube explaination: *Insert youtube link here*
+See YouTube explaination: (Quick rough badly done getting started video)[https://www.youtube.com/watch?v=3m85QBjyFGE]
