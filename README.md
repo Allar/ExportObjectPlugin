@@ -27,4 +27,5 @@ See YouTube explanation: [Quick rough badly done getting started video](https://
 
 1. [Urban City Marketplace Asset with a custom matinee (Stereoscopic available in description!)](https://www.youtube.com/watch?v=AY5vQ0Pm1WE)
 1. [10 Second Kite Asset demo](https://www.youtube.com/watch?v=TiCL93jVLyo)
+1. [Provided scene render](https://www.youtube.com/watch?v=hWeozTO6KQ4)
 
