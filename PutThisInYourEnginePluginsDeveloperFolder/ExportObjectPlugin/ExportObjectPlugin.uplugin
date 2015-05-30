@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Export Object Plugin",
+	"Description": "A plug-in that exposes an 'Export Object to Path' node in blueprint for editor builds.",
+	"Category": "Experimental",
+	"CreatedBy": "Michael Allar",
+	"CreatedByURL": "http://www.allarsblog.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"Modules": [
+		{
+			"Name": "ExportObjectPlugin",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
