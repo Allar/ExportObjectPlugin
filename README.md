@@ -1,6 +1,8 @@
 # ExportObjectPlugin
 Allows you to export arbitrary objects via a blueprint node in editor builds
 
+Built to facilitate 360 stereoscopic panoramic video rendering out of UE4
+
 # Requirements
 
 This requires 4.7.6 or later, and requires your engine to be built from source code.
