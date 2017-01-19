@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This thing is deprecated. Is only here for reference.
+
+Please use https://www.unrealengine.com/marketplace/simple-panoramic-exporter instead.
+
 # ExportObjectPlugin
 Allows you to export arbitrary objects via a blueprint node in editor builds
 
